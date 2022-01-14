@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "MS Dhon",
+      "username": "dhonimsfan",
+      "email": "msdhoni@gmail.com",
+      "phone": "4563214530",
+      "id": 1
+    },
+    {
+      "name": "KL Rahul",
+      "username": "klrahul",
+      "email": "rahul@gmail.com",
+      "phone": "7458965874",
+      "id": 5
+    },
+    {
+      "name": "Ritik Raj",
+      "username": "hreti_kraj",
+      "email": "ritikraj79882@gmail.com",
+      "phone": "7717773981",
+      "id": 7
+    },
+    {
+      "name": "pranjali",
+      "username": "pranjali_1311",
+      "email": "pranjaligupta029@gmail.com",
+      "phone": "8905970914",
+      "id": 8
+    },
+    {
+      "name": "Jasprit Bumra",
+      "username": "jassi",
+      "email": "jassi@gmail.com",
+      "phone": "9807654321",
+      "id": 11
+    },
+    {
+      "name": "Nishika Shekhar",
+      "username": "pihu",
+      "email": "pihu@gmail.com",
+      "phone": "98765432233",
+      "id": 12
+    }
+  ]
+}
